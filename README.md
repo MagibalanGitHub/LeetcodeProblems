@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
