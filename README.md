@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/1127-last-stone-weight) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0506-relative-ranks) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
