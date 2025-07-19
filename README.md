@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Math
+|  |
+| ------- |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/MagibalanGitHub/LeetcodeProblems/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
